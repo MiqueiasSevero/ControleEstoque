@@ -1,5 +1,5 @@
 create database controleEstoque;
-use controEstoque;
+use controleEstoque;
 create table tbl_usuarios(
 	id int not null auto_increment,
     nome varchar(220) not null,

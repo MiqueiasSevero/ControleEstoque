@@ -2,7 +2,7 @@
 <?php
     define("HOST","localhost");
     define("DBNAME","controleEstoque");
-    define("USERNAME","miqueias");
+    define("USERNAME","root");
     define("PASSWORD","");
 
 
